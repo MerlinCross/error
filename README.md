@@ -1,0 +1,2 @@
+# error
+Rimworld Error Log
